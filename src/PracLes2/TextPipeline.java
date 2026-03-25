@@ -29,7 +29,8 @@ public class TextPipeline {
                 "JAVA    is   AWESOME",
                 "   multiple    spaces    here   ",
                 "single",
-                ""
+                "",
+                "Most most frequent word"
         };
 
         System.out.println("=== Часть A: Нормализация строк ===");
